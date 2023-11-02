@@ -13,9 +13,7 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
-          tempore similique autem tempora magni ex necessitatibus omnis quis
-          asperiores dolores.
+          Elevate your space with handcrafted furniture that blends style and comfort seamlessly. Discover the art of living beautifully today.
         </p>
         <Link to="/products" className="btn hero-btn">
           Shop now
