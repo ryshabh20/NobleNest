@@ -31,7 +31,7 @@ export const services = [
     icon: <GiDiamondHard />,
     title: 'vision',
     text:
-      'With a rich history rooted in craftsmanship and quality, we've been a trusted name in furniture for decades, with a passion for creating pieces that stand the test of time.',
+      'With a rich history rooted in craftsmanship and quality, we have been a trusted name in furniture for decades, with a passion for creating pieces that stand the test of time.',
   },
   {
     id: 3,
