@@ -8,9 +8,7 @@ const Contact = () => {
         <h3>Join our newsletter and get 20% off</h3>
         <div className="content">
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda
-            molestias cum ipsum facere inventore rem deleniti vel consectetur
-            voluptatibus ex?
+            Be the first to know about our latest furniture collections, design tips, and exclusive offers. Join our newsletter for a touch of style in your inbox!
           </p>
           <form
             action="https://formspree.io/f/mvonaqwb"
