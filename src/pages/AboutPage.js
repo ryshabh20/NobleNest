@@ -15,12 +15,7 @@ const AboutPage = () => {
             <div className="underline"></div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae
-            voluptatem eaque delectus saepe quo dolorum eius quos provident
-            aliquam? Reprehenderit illo eaque, quod, quia facilis obcaecati
-            dolorem ut alias ipsa ex laborum aut magni, iure accusamus fugiat
-            repellendus. Quo maiores magni delectus quas placeat aspernatur a
-            voluptatibus labore quae quidem.
+            At Comfy Sloth, our story is one of passion, dedication, and a deep love for creating beautiful living spaces. It all began with a dream to provide exceptional, handcrafted furniture that blends comfort and style seamlessly. What started as a small family-run venture has evolved into a trusted name in the world of furniture. For [number of years] years, we have been committed to designing and crafting furniture that not only stands the test of time but also transforms houses into cozy homes. Our journey is a testament to our unwavering commitment to quality and the joy we find in helping you design your ideal comfort zone. Join us in creating a more comfortable and beautiful world, one piece of furniture at a time.
           </p>
         </article>
       </Wrapper>
