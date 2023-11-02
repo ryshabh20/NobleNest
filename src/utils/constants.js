@@ -24,21 +24,21 @@ export const services = [
     icon: <GiCompass />,
     title: 'mission',
     text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      'Our mission is to inspire and elevate everyday living by offering handcrafted furniture that seamlessly combines comfort and style, enhancing the essence of home.',
   },
   {
     id: 2,
     icon: <GiDiamondHard />,
     title: 'vision',
     text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      'With a rich history rooted in craftsmanship and quality, we've been a trusted name in furniture for decades, with a passion for creating pieces that stand the test of time.',
   },
   {
     id: 3,
     icon: <GiStabbedNote />,
     title: 'history',
     text:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      'We envision a future where every home is a haven of comfort and elegance. Our goal is to lead the way in shaping cozy living spaces for all to enjoy.',
   },
 ]
 
