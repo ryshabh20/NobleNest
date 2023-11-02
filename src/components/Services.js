@@ -12,9 +12,7 @@ const Services = () => {
             built only for you
           </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
-            doloribus similique ut minus corporis eius quod illum a hic
-            consequuntur.
+            Indulge in the art of bespoke living with our custom-crafted furniture, where comfort meets your unique style.
           </p>
         </article>
         <div className="services-center">
